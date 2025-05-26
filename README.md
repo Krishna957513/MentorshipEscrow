@@ -5,7 +5,7 @@ A simple Ethereum smart contract that facilitates trustless mentorship engagemen
 ---
 
 ## Prove of work --
-**Contract Address--** Oxef8bba2ae6ca43ffb54b566586d1112638319fc0
+**Contract Address--** 0xef8bba2ae6ca43ffb54b566586d1112638319fc0
 
 ![image]([Screenshot 2025-05-26 142745.png](https://github.com/Krishna957513/MentorshipEscrow/blob/main/Screenshot%202025-05-26%20142745.png))
 
